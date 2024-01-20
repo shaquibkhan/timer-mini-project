@@ -1,0 +1,19 @@
+.clock{
+    font-size: 60px;
+    padding: 8px;
+}
+.btns{
+    padding: 8px;
+    border: 6px;
+
+}
+.start,.stop{
+    padding: 8px;
+    border: 6px;
+}
+.start{
+    color: yellowgreen;
+}
+.stop{
+    color: crimson;
+}
